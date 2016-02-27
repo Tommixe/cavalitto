@@ -1,0 +1,7 @@
+[18-Apr-2014 15:59:16 UTC] PHP Fatal error:  Call to a member function getOrderId() on a non-object in /home/micreon/public_html/cavalitto/app/code/core/Mage/Adminhtml/controllers/Sales/Order/ShipmentController.php on line 253
+[18-Apr-2014 15:59:24 UTC] PHP Fatal error:  Call to a member function getOrderId() on a non-object in /home/micreon/public_html/cavalitto/app/code/core/Mage/Adminhtml/controllers/Sales/Order/ShipmentController.php on line 253
+[18-Apr-2014 15:59:34 UTC] PHP Fatal error:  Call to a member function getOrderId() on a non-object in /home/micreon/public_html/cavalitto/app/code/core/Mage/Adminhtml/controllers/Sales/Order/ShipmentController.php on line 253
+[18-Apr-2014 16:00:28 UTC] PHP Fatal error:  Call to a member function getOrderId() on a non-object in /home/micreon/public_html/cavalitto/app/code/core/Mage/Adminhtml/controllers/Sales/Order/ShipmentController.php on line 253
+[18-Apr-2014 16:01:16 UTC] PHP Fatal error:  Call to a member function getOrderId() on a non-object in /home/micreon/public_html/cavalitto/app/code/core/Mage/Adminhtml/controllers/Sales/Order/ShipmentController.php on line 253
+[07-Feb-2015 14:36:29 Europe/Berlin] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/micreon/public_html/cavalitto/cache/smarty/cache/blockmanufacturer/1/1/21/2d/b2/23/wrt54d614dd56dd07_79253194 <-- 
+  thrown in /home/micreon/public_html/cavalitto/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46

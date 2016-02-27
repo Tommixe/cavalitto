@@ -1,0 +1,13 @@
+[{shop_url}] 
+
+Hi, 
+
+Message from {shop_name} 
+
+{firstname} {lastname} indicated you may want to see his/her
+wishlist: {wishlist}
+
+{wishlist} [{message}] 
+
+{shop_name} [{shop_url}]
+
