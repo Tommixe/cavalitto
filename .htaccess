@@ -1,4 +1,4 @@
-SetEnv PHPRC C:/Users/Tommaso/Dropbox/PS/cavalitto/php.ini
+#SetEnv PHPRC C:/Users/Tommaso/Dropbox/PS/cavalitto/php.ini
 #ModPagespeedDisableFilters convert_meta_tags
 
 # ~~start~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
@@ -10,11 +10,15 @@ SetEnv PHPRC C:/Users/Tommaso/Dropbox/PS/cavalitto/php.ini
 SetEnv HTTP_MOD_REWRITE On
 </IfModule>
 
+
+# Disable Multiviews
+Options -Multiviews
+
 RewriteEngine on
 
 
-#Domain: cavalitto.micreon.net
-RewriteRule . - [E=REWRITEBASE:/]
+#Domain: 127.0.0.1
+RewriteRule . - [E=REWRITEBASE:/edsa-cavalitto/]
 RewriteRule ^api$ api/ [L]
 
 RewriteRule ^api/(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
@@ -34,6 +38,7 @@ AddType application/x-font-woff .woff
 </IfModule>
 
 #If rewrite mod isn't enabled
-ErrorDocument 404 /index.php?controller=404
+ErrorDocument 404 /edsa-cavalitto/index.php?controller=404
 
 # ~~end~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
+

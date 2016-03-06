@@ -1,0 +1,7 @@
+div.home_categories{		margin-bottom: 5px}
+div.home_categories .cr{		clear: both;	border: 0px none}div.home_categories ul{		text-align:center;	list-style:none	}
+div.home_categories img{		width:150px;	height:150px	}
+div.home_categories li{	float:left;	position: relative;	margin:5px;	margin-bottom: 40px;	width:155px;	height:155px;	font-size: 17px;	font-weight: bold;}
+div.home_categories h5 a:hover{	text-decoration:underline;	color:#F1B50E}
+div.home_categories div{	width:152px;	border:1.7px outset #5B5B5B}
+div.home_categories div:hover{	-moz-box-shadow: 0 0 12px #5B5B5B; 	-webkit-box-shadow: 0 0 12px #5B5B5B; 	box-shadow: 0 0 12px #5B5B5B; }

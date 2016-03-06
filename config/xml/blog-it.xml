@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IT - Blog E-commerce di PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/it</link>
+	<description>Benvenuti nel blog di E-commerce di PrestaShop, un blog che vi permette di conoscere i segreti per ottimizzare il suo negozio.</description>
+	<lastBuildDate>Wed, 02 Mar 2016 10:59:20 +0000</lastBuildDate>
+	<language>it-IT</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Come migliorare la performance del tuo sito e-commerce in 4 semplici passi!</title>
+		<link>https://www.prestashop.com/blog/it/come-migliorare-performance-tuo-sito-commerce-in-4-semplici-passi/</link>
+		<comments>https://www.prestashop.com/blog/it/come-migliorare-performance-tuo-sito-commerce-in-4-semplici-passi/#comments</comments>
+		<pubDate>Wed, 02 Mar 2016 10:48:41 +0000</pubDate>
+		<dc:creator><![CDATA[Gli amici di Preston]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12894</guid>
+		<description><![CDATA[<p>Quando un commerciante apre il suo primo negozio online non sempre sa come monitorare la performance della propria attività. Tale monitoraggio è indispensabile e dovrebbe essere effettuato sin dall’inizio. Diversamente, si perdono dati molto preziosi per capire quali decisioni prendere e, soprattutto, che direzione dare al proprio business. In questo articolo gli esperti di Business [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/come-migliorare-performance-tuo-sito-commerce-in-4-semplici-passi/">Come migliorare la performance del tuo sito e-commerce in 4 semplici passi!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Quando un commerciante apre il suo primo negozio online non sempre sa come monitorare la performance della propria attività. Tale monitoraggio è indispensabile e dovrebbe essere effettuato sin dall’inizio.<br />
+Diversamente, si perdono dati molto preziosi per capire quali decisioni prendere e, soprattutto, che direzione dare al proprio business.<br />
+In questo articolo gli esperti di <a href="http://www.businesstech.fr/en/content/10-business-tech-4l3p-ecommerce" target="_blank">Business Tech</a> ci spiegheranno come ottimizzare la performance del proprio sito in quattro semplici passi:</p>
+<p><span id="more-12894"></span></p>
+<ul>
+<li>Definire gli obiettivi;</li>
+<li>Identificare gli indicatori chiave di prestazione (KPI);</li>
+<li>Usare strumenti di analisi specifici;</li>
+<li>Ottimizzare il proprio negozio on-line.</li>
+</ul>
+<h2 style="color: #2c7f9f;">DEFINIRE GLI OBIETTIVI</h2>
+<p>Qual è il tuo obiettivo? Forse starai pensando: fare soldi! Questa è probabilmente la tua meta finale, ma prima avrai bisogno di raggiungere degli obiettivi intermedi.<br />
+Cosa vuol dire generare un profitto? Potrebbe voler dire aumentare le vendite, oppure magari ridurre le spese. Inizia scegliendo obiettivi concreti e quantificabili, riguardanti ad esempio il volume di vendite, il traffico sul tuo sito o il tasso di conversione.</p>
+<h2 style="color: #2c7f9f;">IDENTIFICARE 5 INDICATORI CHIAVE DI PRESTAZIONE (KPI – KEY PERFORMANCE INDICATORS)</h2>
+<p>Per misurare effettivamente il tuo fatturato e capire come venga generato, dovrai tenere d’occhio come minimo questi <a href="https://www.prestashop.com/blog/it/10-indicatori-di-prestazioni-chiave-che-i-proprietari-di-un-negozio-online-dovrebbero-tenere-docchio/">5 indicatori chiave</a>:</p>
+<ul>
+<li><strong>Traffico sul sito</strong>: <a href="https://www.prestashop.com/blog/en/the-5-ultimate-ways-drive-new-traffic-online-store/">il numero di persone che visitano il tuo negozio on-line nell’arco di un giorno, una settimana o un mese</a>. Dovrai non solo analizzare il traffico globale, ma anche suddividerlo per pagina e per prodotto. Un’analisi più dettagliata ti permetterà di prendere le giuste decisioni.</li>
+<li><strong>Fonti di traffico</strong>: devi sapere quali sono i canali che portano i visitatori più qualificati, in modo da indirizzare gli investimenti e lasciar perdere le fonti che non danno risultati.</li>
+<li>Questo indicatore ti fornirà dati importantissimi per ottimizzare il tuo negozio.</li>
+<li><strong>Tasso di conversione</strong>: è il rapporto tra numero di ordini pagati e numero di visitatori del sito. Se è troppo basso, cerca di capire se ci sono problemi nel processo di completamento dell’ordine.</li>
+<li><strong>Utile netto</strong>: vale a dire ricavi &#8211; costi. Nell’attuale situazione economica le “guerre di prezzi” sono comuni e l’utile netto può crollare facilmente; questo indicatore richiede quindi costante attenzione.</li>
+<li><strong>Valore medio del carrello</strong>: è la media del valore degli ordini effettuati dai clienti in un determinato periodo di tempo.</li>
+</ul>
+<p>Una volta studiati questi elementi base, potrai approfondire la tua analisi aggiungendo altri indicatori chiave riguardanti i tuoi obiettivi.</p>
+<h2 style="color: #2c7f9f;">USARE STRUMENTI DI ANALISI SPECIFICI</h2>
+<p>Molti di questi indicatori di prestazioni chiave (KPI) si trovano nel back-office del tuo sito. Nel back-office di PrestaShop troverai questi indicatori nella parte superiore di ogni pagina relativa all’area in questione.</p>
+<p>Google Analytics è un altro strumento indispensabile. È gratuito, fornisce un quadro completo e si integra perfettamente con soluzioni e-commerce come PrestaShop.</p>
+<p>Se collabori con un’agenzia web, questa potrà indicarti strumenti specifici per misurare altri KPI importanti per la tua attività.</p>
+<h2 style="color: #2c7f9f;">OTTIMIZZARE IL NEGOZIO ON-LINE</h2>
+<p>Una volta completata la tua analisi, potrai pianificare azioni volte a migliorare la tua strategia on-line. <a href="http://addons.prestashop.com/it/6_business-tech" target="_blank">PrestaShop offre moduli appositi che possono essere scaricati da PrestaShop Addons Marketplace</a>.</p>
+<p>Segui questi semplici passi ogni volta che si presenta una nuova sfida: ti aiuteranno a ottimizzare il tuo negozio e a massimizzare i risultati.</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/come-migliorare-performance-tuo-sito-commerce-in-4-semplici-passi/">Come migliorare la performance del tuo sito e-commerce in 4 semplici passi!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/come-migliorare-performance-tuo-sito-commerce-in-4-semplici-passi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Piattaforma ODR: a cosa serve</title>
+		<link>https://www.prestashop.com/blog/it/piattaforma-odr-serve/</link>
+		<comments>https://www.prestashop.com/blog/it/piattaforma-odr-serve/#comments</comments>
+		<pubDate>Wed, 24 Feb 2016 13:15:20 +0000</pubDate>
+		<dc:creator><![CDATA[Rachele de Lucia]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12875</guid>
+		<description><![CDATA[<p>Molti di voi avranno sicuramente sentito parlare della Piattaforma ODR, gestita dall’Unione Europea. Vediamo in dettaglio di cosa si tratta e perché potrebbe essere utile per i commercianti online. ODR è un acronimo che sta per Online Dispute Resolution, cioè Risoluzione Online di Controversie. L’Unione Europea, con il regolamento n.524/13, ha istituito tale servizio per [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/piattaforma-odr-serve/">Piattaforma ODR: a cosa serve</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Molti di voi avranno sicuramente sentito parlare della <a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=IT" target="_blank">Piattaforma ODR</a>, gestita dall’Unione Europea. Vediamo in dettaglio di cosa si tratta e perché potrebbe essere utile per i commercianti online.<span id="more-12875"></span></p>
+<p>ODR è un acronimo che sta per Online Dispute Resolution, cioè Risoluzione Online di Controversie. L’Unione Europea, con il regolamento n.524/13, ha istituito tale servizio per la risoluzione in via extragiudiziale (cioè fuori dalle aule di un tribunale) delle controversie tra consumatore e venditore sorte in seguito ad <span style="text-decoration: underline;">acquisti online effettuati esclusivamente in ambito europeo</span>. La piattaforma è diventata operativa dal 15 febbraio 2016.</p>
+<p>L’obiettivo del legislatore è stato quello di rendere più veloce ed accessibile il ricorso alla risoluzione extragiudiziale, quindi senza necessità di assistenza legale, proponendo una piattaforma friendly con due percorsi distinti, sia per l’utente consumatore che per l’utente venditore. Le controversie dovranno essere risolte entro un periodo massimo di 90 giorni.</p>
+<h2>Cosa cambia per il commerciante online?</h2>
+<p>Il commerciante online è tenuto a informare la potenziale clientela dell’esistenza di tale servizio. Pertanto è obbligato ad inserire il link alla piattaforma sul proprio sito, come stabilito dalla Commissione Europea <a href="http://ec.europa.eu/italy/news/2016/20160108-nuova-piattaforma-odr_it.htm" target="_blank">qui</a>.</p>
+<p>Qualche commerciante starà già storcendo il naso pensando a un aumento di gatte da pelare: non è proprio così, e vi spieghiamo perché.</p>
+<p>È necessario spostare il punto di vista: il commerciante che ha dato priorità nel costruire un rapporto di fiducia online, con un corretto customer service, un’ottima sezione FAQ, e l’affidabilità della logistica, ha ben poco da temere da una procedura del genere, anzi ne ha da guadagnare.</p>
+<p>La piattaforma ODR, innanzitutto, è prevista sia per reclami da parte del consumatore che da parte del venditore, quindi è un organismo super partes, atto a tutelare entrambe le parti. E, cosa molto importante, rafforza la fiducia del consumatore nell’effettuare un acquisto online.</p>
+<p>È un dato da non sottovalutare, soprattutto in Italia, dove la penetrazione dell’e-commerce nel 2015 è stata del 4%, cioè mediamente 4 volte inferiore a mercati come UK, Germania, Francia. Affianco a tale dato è da tenere presente però il tasso di crescita che è stato del 17% nel 2015, superiore ai Paesi citati, dove il mercato ha già raggiunto una fase di maturità. <i>(Fonte: L’e-commerce B2C: mercati internazionali e mercato italiano a confronto – DIG Dipartimento di Ingegneria Gestionale del Politecnico di Milano).</i></p>
+<p>Situazione in crescita, che deve necessariamente essere supportata da una corretta policy aziendale e dai giusti strumenti istituzionali, come la procedura ODR.</p>
+<h2> Approfondimenti:</h2>
+<ul>
+<li><a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=IT" target="_blank">link</a> alla Piattaforma ODR</li>
+<li><a href="http://ec.europa.eu/italy/news/2016/20160108-nuova-piattaforma-odr_it.htm" target="_blank">sito</a> della Commissione europea</li>
+<li><a href="http://www.camera-arbitrale.it/it/news/La+Commissione+Europea+lancia+una+nuova+piattaforma+ODR.php?id=628" target="_blank">sito</a> della Camera Arbitrale di Milano</li>
+</ul>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/piattaforma-odr-serve/">Piattaforma ODR: a cosa serve</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/piattaforma-odr-serve/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Video marketing per l’e-commerce: da dove iniziare?</title>
+		<link>https://www.prestashop.com/blog/it/video-marketing-per-commerce-dove-iniziare/</link>
+		<comments>https://www.prestashop.com/blog/it/video-marketing-per-commerce-dove-iniziare/#comments</comments>
+		<pubDate>Mon, 22 Feb 2016 12:51:38 +0000</pubDate>
+		<dc:creator><![CDATA[Gli amici di Preston]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12881</guid>
+		<description><![CDATA[<p>Un’immagine vale più di mille parole, ma un video di presentazione di un prodotto vale ben di più in termini di engagement e conversioni. Il 96% dei consumatori trova i contenuti video utili all’esperienza di acquisto on-line. I commercianti che pubblicano video di prodotti sul proprio sito vedono i tassi di conversione aumentare fino all’85%. [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/video-marketing-per-commerce-dove-iniziare/">Video marketing per l’e-commerce: da dove iniziare?</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Un’immagine vale più di mille parole, ma un video di presentazione di un prodotto vale ben di più in termini di engagement e conversioni.<br />
+Il <a href="http://www.reelseo.com/consumers-purchase-video/" target="_blank">96% dei consumatori</a> trova i contenuti video utili all’esperienza di acquisto on-line. I commercianti che pubblicano video di prodotti sul proprio sito vedono i tassi di conversione aumentare <a href="http://blog.crazyegg.com/2015/03/05/videos-boost-conversion-rates/" target="_blank">fino all’85%</a>. Altri <a href="http://blog.goodvid.io/5-benefits-of-having-product-videos-on-ecommerce-site?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">vantaggi derivati dall’uso di video per l’e-commerce</a> sono un aumento della durata delle visite, del numero di pagine visitate e del traffico sul sito.</p>
+<p>Diamo ora uno sguardo agli elementi fondamentali per sviluppare  una strategia di video marketing per la tua attività.</p>
+<p><span id="more-12881"></span></p>
+<h2>Come pianificare la strategia di video marketing giusta per te</h2>
+<p>Prima di cimentarti con l’aspetto creativo del video marketing, valuta quale tipo di <a href="http://blog.goodvid.io/5-steps-to-create-a-video-strategy-for-your-online-store/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">strategia video</a> fa per te.<br />
+Quali risultati ti aspetti dalla pubblicazione di video sul tuo sito? Quanto tempo e denaro hai a disposizione? Quali sono le tue competenze?<br />
+Ci sono tre direzioni principali tra  cui scegliere:</p>
+<h4>1. Creare i tuoi video</h4>
+<p>Creare i tuoi video è la strategia più impegnativa in termini di risorse, ma è anche la più gratificante, perché ti permettere di dare una voce personale al tuo marchio. Se stai vendendo i prodotti della tua marca, creare video originali è un’ottima scelta, perché ti permette di promuovere la tua azienda, i tuoi valori e la tua visione.</p>
+<h4>2. Usare video creati da esperti, utenti o aziende</h4>
+<p>Se non hai abbastanza tempo e risorse o, semplicemente, non te la senti di farti riprendere da una telecamera, puoi utilizzare video già esistenti che ritraggono i prodotti e i marchi del tuo catalogo. YouTube e altre piattaforme per la condivisione di video traboccano di <a href="https://goodvid.io/video-gallery?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">video creati da aziende, esperti e utenti</a> che possono essere condivisi nuovamente su siti e-commerce, per giunta totalmente gratis.</p>
+<p>Questo  è anche un modo per testare la reazione dei  clienti  ai video pubblicati sul tuo sito, senza impegnarsi troppo in termini di produzione, soprattutto se non hai mai utilizzato il video marketing.</p>
+<h4>3. Pubblicare video originali e non</h4>
+<p>Infine, puoi offrire ai tuoi clienti il meglio di entrambe le opzioni e pubblicare sia video originali che contenuti selezionati da altre fonti. È un ottimo modo per diversificare i tuoi contenuti video, mantenere alta l’attenzione dei consumatori e affermarsi come un’autorità nel settore.</p>
+<h2>Come selezionare il video giusto</h2>
+<p>Ora che hai scelto la strategia che fa al caso tuo, puoi pensare al tipo di contenuti video che il tuo pubblico apprezzerà di più. Idealmente, questi contributi coinvolgono i clienti presentando storie interessanti sui prodotti in vendita e li motivano a cliccare sul pulsante “Aggiungi al carrello”.<br />
+Tra i migliori tipi di video per l’e-commerce troviamo:</p>
+<ul>
+<li><b>Recensioni di prodotti</b>. Permettono ai clienti di scoprire quali sono le principali caratteristiche dei  prodotti e di osservarli durante l’uso. Questi video determinano le aspettative riguardo a un prodotto prima della decisione di acquisto e aiutano a prevenire restituzioni.</li>
+<li><b>Tutorial e video “how-to”</b>. I video che contengono istruzioni sul <a href="http://blog.goodvid.io/how-online-retailers-can-leverage-how-to-video-content/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">montaggio, l’utilizzo e la manutenzione di prodotti</a> sono particolarmente utili per oggetti complessi come prodotti elettronici, elettrodomestici, cosmetici e prodotti per neonati.</li>
+<li><b>Video di “unboxing” (apertura del prodotto)</b>. I video che mostrano l’imballaggio del prodotto e il processo di apertura aiutano i potenziali clienti a visualizzare meglio i loro acquisti. Possono inoltre diminuire l’ansia da parte del consumatore e accrescere il suo interesse nei confronti del prodotto.</li>
+</ul>
+<p>Quando selezioni video per il tuo sito, chiediti quali domande potrebbero avere i tuoi potenziali clienti  e pubblica video che offrano risposte adeguate. Ricorda: i video dovrebbero rappresentare un rivenditore virtuale sul tuo negozio on-line, quindi assicurati che possano rispondere a qualsiasi dubbio dei  tuoi clienti.</p>
+<h2>Video di prodotti per l’e-commerce: best practice</h2>
+<p>Con la strategia giusta, i video possono apportare vantaggi tangibili in termini di engagement e tassi di conversione per il tuo sito e-commerce. Ecco alcuni consigli pratici rivolti ai commercianti on-line per sviluppare un piano  di video marketing:</p>
+<ol>
+<li><b></b><b>Trova l’ispirazione. </b>Cerca su YouTube video sui prodotti e i marchi che vendi, oppure su prodotti della stessa categoria. Possono essere video creati da aziende, utenti, esperti e rivenditori. Prendi appunti sulle informazioni offerte,  sullo stile, sulla durata e sul tipo di “call to action”. Usa ciò che hai osservato per decidere che tipo di video creare oppure selezionare per il tuo sito.</li>
+<li><b></b><b>Inizia con  i prodotti che vendono di più. </b>Se non hai mai pubblicato video sul tuo sito, potrebbe essere una buona idea iniziare dai prodotti che vendono di più o che ricevono più visite. In questo modo potrai raccogliere velocemente dati sull’impatto dei tuoi video su engagement e conversione.</li>
+<li><b></b><b>Posiziona i video ai punti di conversione</b>. Se vuoi controllare come i video influenzino il tasso di conversione per il pulsante “Aggiungi al carrello”, aggiungili direttamente sulle pagine dei prodotti, piuttosto che sulle pagine  categorie: sfrutterai al massimo il loro effetto sull’intenzione di acquisto.</li>
+<li><b>A</b><b>ssicurati che i video si notino.</b> Affianca i video alle foto e alle descrizioni dei prodotti. Questo attrarrà immediatamente l’attenzione dei visitatori e li spingerà a interagire con il contenuto. Posiziona i video nella prima metà  della pagina. Evita di posizionarli nella seconda metà  perché difficilmente il potenziale cliente li visualizzerebbe.</li>
+<li><b></b><b>Aggiungi più video alla pagina del prodotto. </b>Le tue pagine hanno più di una foto di prodotti, quindi perché non avere anche diversi video? Prova a coinvolgere i tuoi clienti con tipi differenti di video. Oltre ai tuoi contributi originali, proponi video creati da utenti, testimonianze di clienti e recensioni di prodotti per offrire ai consumatori un’esperienza più autentica. Prova  diverse opzioni di <a href="http://blog.goodvid.io/5-ecommerce-video-trends-for-2016/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">gallerie video</a> per scoprire la tua formula vincente.</li>
+<li><b></b><b>Ottimizza i video per i dispositivi mobili</b>. Viviamo ormai in un mondo mobile e i clienti si aspettano un’esperienza uniforme, indipendentemente dal tipo di dispositivo usato per accedere al tuo negozio on-line. Ricordati di usare un design responsive anche per i video: i tuoi clienti dovrebbero  visualizzarli con la qualità massima anche sul loro dispositivo mobile.</li>
+</ol>
+<h2>Monitoraggio post pubblicazione</h2>
+<p>Una volta stabilita la tua strategia di video marketing, è bene testare il funzionamento dei video sul tuo sito e-commerce. Ecco qualche punto da considerare:</p>
+<ul>
+<li><span style="line-height: 1.5;">Come si comportano i visitatori sulle pagine con video rispetto alle pagine senza video?</span></li>
+<li><span style="line-height: 1.5;">Qual è la percentuale dei visitatori che effettivamente visualizza i video?</span></li>
+<li><span style="line-height: 1.5;">Quanto dura tale visualizzazione?</span></li>
+<li><span style="line-height: 1.5;">Qual è l’impatto dei video sulla durata delle sessioni e sul numero di pagine visitate?</span></li>
+<li><span style="line-height: 1.5;">Quali sono i tassi di conversione per le pagine con i video rispetto a quelli per le pagine senza video?</span></li>
+</ul>
+<p>Rispondendo a queste domande e monitorando il comportamento dei consumatori, capirai qual è il migliore approccio per la tua attività. I video sono un complemento eccellente per il tuo marketing: continua a testare e a perfezionare questo aspetto della tua strategia.<br />
+Non hai mai utilizzato video fino a ora? Non perderti l’opportunità di offrire ai tuoi clienti un’esperienza ancora più ricca!</p>
+<h2>Informazioni sull’autrice</h2>
+<p><img class="alignleft size-full wp-image-21235" alt="miljana-mitic" src="https://www.prestashop.com/blog/en/files/2016/02/miljana-mitic.png" width="100" height="100" /></p>
+<p>Miljana Mitic è Content Marketing Manager a <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, un’azienda Software as a Service che aiuta negozi on-line a portare i migliori contenuti video dai social media alle loro pagine dei prodotti. Miljana ha un PhD in marketing per i social media e scrive su come i negozi on-line possano utilizzare al meglio i video per promuovere i loro prodotti. Adora scoprire nuovi ristoranti, leggere, giocare con i cani e guardare video “haul” su YouTube.</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/video-marketing-per-commerce-dove-iniziare/">Video marketing per l’e-commerce: da dove iniziare?</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/video-marketing-per-commerce-dove-iniziare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seo in the kitchen: la web serie sulla Seo</title>
+		<link>https://www.prestashop.com/blog/it/seo-in-the-kitchen/</link>
+		<comments>https://www.prestashop.com/blog/it/seo-in-the-kitchen/#comments</comments>
+		<pubDate>Wed, 17 Feb 2016 09:20:15 +0000</pubDate>
+		<dc:creator><![CDATA[Rachele de Lucia]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12857</guid>
+		<description><![CDATA[<p>Seo in the kitchen è una rubrica video a cura di  Ivan Cutolo di Seochef, web agency specializzata in SEO e SEM per l’e-commerce. Seochef nasce da un’intelligente metafora della SEO vista come una scienza culinaria, che sceglie cosa cucinare, che cerca di accontentare il gusto del pubblico prescelto, che sperimenta. In pratica, è ciò [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/seo-in-the-kitchen/">Seo in the kitchen: la web serie sulla Seo</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Seo in the kitchen è una rubrica video a cura di  Ivan Cutolo di <a href="http://www.seochef.it/">Seochef</a>, web agency specializzata in SEO e SEM per l’e-commerce.</p>
+<p>Seochef nasce da un’intelligente metafora della SEO vista come una scienza culinaria, che sceglie cosa cucinare, che cerca di accontentare il gusto del pubblico prescelto, che sperimenta. In pratica, è ciò che succede quotidianamente nel web marketing.</p>
+<p>La scelta di creare <a href="https://www.youtube.com/channel/UCIT5APWUmYnZYSrnoMsQ2WA">una rubrica video su Youtube</a> è stata una mossa vincente. Contenuti complessi sono presentati con semplicità, grazie all’associazione SEO/Cucina, riscuotendo subito successo tra gli appassionati del settore. Vediamo in dettaglio come è nata l’avventura di Seochef e di Seo in the kitchen.<span id="more-12857"></span></p>
+<h2>Ciao Ivan! Come hai scoperto la tua passione per la SEO?</h2>
+<p>La mia passione per la SEO nasce un po’ per caso, un po’ per esigenza, figlia della mia passione per la programmazione e la realizzazione di e-commerce. Mi innamoro della SEO per curiosità e per la necessità di aumentare le vendite e la visibilità dei negozi online che creavo e gestivo, in primis quello dell’azienda di famiglia. Da allora ogni giorno è fatto di dedizione, studio e sfide quotidiane per vincere la scalata della SERP.</p>
+<h2>Perché hai scelto il nome Seochef?</h2>
+<p>Dietro la ricerca del naming c’è stato un lavoro di coppia tra me e mia moglie, esperta di content marketing e social media manager. Riflessioni, giochi di parole, ricerca di sonorità e semplicità e, come spesso succede, le donne con le giuste argomentazioni vincono, e vince l’associazione della SEO alla cucina.</p>
+<p>Lo chef studia, crea, sperimenta, ascolta le esigenze dei palati che vuole soddisfare, gestisce un team di lavoro, e tutto ciò è quanto accade nella nostra azienda e nel web marketing.</p>
+<p>Nasce così Seochef e lo battezziamo con baffo e cappello.</p>
+<h2>Come nasce l’idea di SEO in the kitchen?</h2>
+<p>C’era nell’aria la voglia di creare una strategia social con i video, ma era ancora solo un pensiero; poi per caso, durante una vacanza, trovo nella mia stanza d’albergo un angolo cottura invitante con posate giganti, io e mia moglie ci guardiamo negli occhi, e si materializza l’idea: è il set perfetto per la <a href="https://www.youtube.com/watch?v=33rriQVeFcg">puntata numero n. 0 di #seointhekitchen.</a></p>
+<p>Da lì prende il via questa nuova avventura, poi il set si trasferisce nella cucina di casa mia, ed ogni alimento e piatto diventa materia per la SEO. Abbiamo progettato un format di formazione e d’informazione originale (e anche divertente), su un argomento ostico come la SEO.</p>
+<h2> Chi ti ha sostenuto in questa avventura della rubrica video?</h2>
+<p>La spalla in questo progetto è mia moglie, Antonella Apicella, compagna di vita e Co-Founder dell’azienda. Mi sostiene, mi incoraggia, mi giudica severamente (anche troppo J). Partecipa alla progettazione delle puntate, alle registrazioni, è una perfezionista: se c’è qualcosa che non è in linea con il contenuto del programma, il ciak si ripete, per la gioia dei video maker che collaborano al programma.</p>
+<h2> Raccontaci qualche aneddoto “dietro le quinte”</h2>
+<p>Prima o poi, per diletto, pubblicheremo una puntata di backstage di SEO in the kitchen, con le papere, le parole mangiate, le risate scappate, gli errori nelle ricette, il telefono che suona perché abbiamo dimenticato di staccarlo, insomma ne capitano di tutti i colori. Il meglio è quando bisogna ripulire la lavagna per il prossimo esempio, ed io devo allontanarmi, perché non ne sopporto il fruscio.</p>
+<p>Un’avventura piacevole, ricca di sorprese, ma anche faticosa, perché negarlo.</p>
+<h2> Consigli per chi vuole avvicinarsi al fantastico mondo della SEO</h2>
+<p>Tanti spunti formativi a chi si avvicina a questo mondo, li stiamo dando con la video rubrica. #Seointhekitchen è un vero e proprio corso in pillole, in cui affrontiamo vari argomenti, suddivisi anche per livelli di difficoltà. Questo sul piano teorico; in pratica, ai neofiti del mestiere, consiglio di studiare, di non essere pigri, di testare e di rispettare le regole di Google, di non arrendersi davanti alle prime sconfitte, perché per crescere bisogna imparare dai propri errori.</p>
+<p>Ringraziamo Ivan per aver risposto alle nostre domande e per i suoi preziosi consigli, soprattutto per chi intende muovere i primi passi nel complesso e affascinante mondo della SEO.</p>
+<p>&nbsp;</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/seo-in-the-kitchen/">Seo in the kitchen: la web serie sulla Seo</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/seo-in-the-kitchen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caso Studio: Etoffe.com e l’uso delle immagini sui  social network</title>
+		<link>https://www.prestashop.com/blog/it/caso-studio-etoffe-com-luso-delle-immagini-sui-social-network/</link>
+		<comments>https://www.prestashop.com/blog/it/caso-studio-etoffe-com-luso-delle-immagini-sui-social-network/#comments</comments>
+		<pubDate>Mon, 15 Feb 2016 09:04:48 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12861</guid>
+		<description><![CDATA[<p>I social network sono uno strumento prezioso per i commercianti on-line, ma non sempre sono facili da capire. Le opzioni per la condivisione di testo, immagini e video sono semplici, a portata di mano, ma non tutti sanno come si usano. Abbiamo parlato con Philippe Bertron del negozio francese on-line di interior design Etoffe.com per [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/caso-studio-etoffe-com-luso-delle-immagini-sui-social-network/">Caso Studio: Etoffe.com e l’uso delle immagini sui  social network</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I social network sono uno strumento prezioso per i commercianti on-line, ma non sempre sono facili da capire. Le opzioni per la condivisione di testo, immagini e video sono semplici, a portata di mano, ma non tutti sanno come si usano. Abbiamo parlato con Philippe Bertron del negozio francese on-line di interior design <a href="http://www.etoffe.com/" target="_blank">Etoffe.com</a> per capire come usare al meglio i social network. Ecco qualche spunto per impostare la tua strategia.<br />
+<span id="more-12861"></span> </p>
+<h2 style="color:#509195">Perché avete iniziato a usare i social network?</h2>
+<p><a href="http://www.etoffe.com/" target="_blank">Etoffe.com</a> è un negozio on-line che vende tessuti e carte da parati di lusso. Non avendo un negozio fisico per noi era importante creare uno spazio di interazione per  i nostri clienti. I nostri canali sui social network sono una vetrina per i nostri prodotti e sono sempre aggiornati  sulle nuove collezioni, le promozioni e gli eventi legati al nostro settore, come mostre e fiere. </p>
+<p>Nel nostro campo non manca l’ispirazione per nuovi contenuti: siamo fortunati, perché lavoriamo con marchi che creano bellissime immagini. I nostri canali di social network sono perfetti per condividerle e per promuovere una community di appassionati dell’interior design di alta classe. La nostra strategia di social media marketing è chiaramente orientata verso il branding editoriale e l’immagine coordinata; raramente adottiamo un approccio puramente commerciale. Pensiamo che una comunicazione intensa e costante con un alto numero di fan e follower  ci renda più credibili nel settore in cui operiamo.</p>
+<h2 style="color:#509195">Quali canali usate e a quale scopo?</h2>
+<p><a href="https://www.facebook.com/etoffe" target="_blank">Facebook</a> è la nostra community più importante: abbiamo raggiunto quasi 20.000 fan. È un social network innovativo che offre molte opzioni per raggiungere diversi target. Cerchiamo di coinvolgere i clienti sulla base dei loro interessi, ma ci basiamo anche sui profili Facebook degli iscritti alla nostra newsletter, grazie alla possibilità di importare la lista dei contatti e-mail nella piattaforma. Questo ci permette di condividere notizie sui marchi con cui lavoriamo utilizzando immagini d’impatto. La condivisione virale di certi prodotti  è un forte indicatore di tendenze e ci permette di identificare ciò che venderà di più in futuro. </p>
+<p>Siamo anche su <a href="https://www.instagram.com/etoffe_com/" target="_blank">Instagram</a> e <a href="https://www.pinterest.com/etoffe/" target="_blank">Pinterest</a>, perché crediamo che i social network basati sulle foto siano assolutamente necessari, vista la ricchezza di immagini che abbiamo a disposizione. Mettere in mostra i nostri prodotti è la nostra priorità. </p>
+<p>Siamo attivi su <a href="http://www.scoop.it/" target="_blank">Scoop.it</a> tutti i giorni. È un social network con una funzione di content curation ancora relativamente sconosciuto, ma che ci ha piacevolmente sorpreso in termini di vendite e traffico. Questo strumento ci permette di selezionare e fornire notizie inerenti al nostro settore e garantisce un traffico di altissima qualità. Scoop.it  consente di posizionarci come esperti nei settori del tessile, della carta da parati e dell’interior design di lusso.</p>
+<p>Usiamo <a href="https://twitter.com/etoffe" target="_blank">Twitter</a> con moderazione, soprattutto per condividere notizie pubblicate da designer e articoli del nostro profilo Scoop.it.</p>
+<h2 style="color:#509195">Quali canali funzionano meglio?</h2>
+<p>In termini di traffico, Facebook, Pinterest e Scoop.it fruttano il maggior numero di visite; su Facebook e Instagram c’è più partecipazione.</p>
+<p>Se si parla di conversioni, i visitatori del nostro sito provenienti da Facebook sembrano essere molto attenti ai prezzi. Le vendite attraverso questo canale subiscono un’impennata durante le promozioni. </p>
+<p>Scoop.it ci dà un alto tasso di conversione, grazie al traffico altamente specializzato che dirige verso il sito. </p>
+<p>In generale, tutti i nostri social network contribuiscono alla nostra presenza sul web e rappresentano una valida piattaforma di scambio con i nostri clienti attuali e potenziali.</p>
+<h2 style="color:#509195">Come gestite i vostri canali sui social network?</h2>
+<p>Abbiamo un calendario diverso per ognuno dei social network:</p>
+<ul style="padding-left: 30px">
+<li>Su Facebook pubblichiamo due volte a settimana, perché vogliamo offrire contenuti di alta qualità su questo canale, che è quello che raggiunge il numero maggiore di fan. Le nostre pubblicazioni riguardano nuovi prodotti, oppure prodotti che hanno funzionato bene sul nostro sito e che vorremmo riproporre. Durante l’anno condividiamo concorsi  per espandere il nostro database di e-mail;</li>
+<li>Aggiorniamo il nostro profilo Scoop.it ogni giorno. Selezioniamo e pubblichiamo le notizie più interessanti da diversi siti del nostro settore;</li>
+<li>Usiamo Twitter per diffondere i contenuti condivisi su Facebook e Scoop.it. Inoltre ritwittiamo i designer con cui collaboriamo; </li>
+<li>Pubblichiamo immagini su Instagram una volta al giorno, nel primo pomeriggio. Il nostro sito offre un’ampia gamma di immagini da cui scegliere;</li>
+<li>Infine, anche su Pinterest siamo attivi tutti i giorni, prendendo immagini da nuove collezioni o che semplicemente vale la pena condividere.</li>
+</ul>
+<h2 style="color:#509195">Dove trovate spunti per creare contenuti e decidere cosa condividere?</h2>
+<p>Ci ispiriamo alle piccole meraviglie che offriamo sul nostro sito, alle tendenze nel settore dell’interior design e a cose che troviamo a mostre e fiere. Inoltre, osserviamo le reazioni dei membri della community alle nostre pubblicazioni: stiamo conoscendo pian piano i loro gusti. I contenuti virali sui social network non riguardano necessariamente i prodotti che vendono di più: dobbiamo trovare un equilibrio tra quello che gli utenti condividono  e quello che venderà per davvero! </p>
+<h2 style="color:#509195">Quali strumenti usate?</h2>
+<p>Usiamo diversi strumenti per gestire le nostre pubblicazioni sui social network: Buffer per Twitter, lo strumento per la pianificazione delle pubblicazioni di Facebook e Latergram per Instagram. Gli strumenti di analisi di Facebook e Twitter sono sufficientemente dettagliati.<br />
+Abbiamo invece dovuto trovare uno strumento di analisi specifico per Instagram,  inizialmente abbiamo scelto Iconosquare; siamo quasi alla fine del periodo di prova e stiamo cercando un nuovo strumento per continuare.</p>
+<h2 style="color:#509195">Avete consigli per i commercianti che stanno entrando nel mondo dei social network?</h2>
+<p>Pensiamo che la cosa più importante sia offrire contenuti originali, di qualità e attinenti alla propria attività. In un’epoca in cui gli utenti sono bombardati da informazioni provenienti da tantissimi marchi diversi, l’obiettivo è catturare la loro attenzione sviluppando una strategia editoriale, un contenuto e un tono che siano riconoscibili e unici. L’elemento di “esclusività” è spesso quello che alla fine convince il follower ad acquistare. </p>
+<p>Curare l’elemento visivo di ogni pubblicazione è fondamentale. La regola è: non si pubblica senza un’immagine!<br />
+Siamo fortunati perché abbiamo molto contenuto visuale da cui attingere. Chi non ha questa possibilità deve essere creativo e cercare immagini dal forte impatto che possano accompagnare il testo. </p>
+<p>Attraverso i social network proponiamo alla nostra community una vera e propria esperienza: condividiamo informazioni esclusive che non può trovare<br />
+altrove, cose sorprendenti ma anche coinvolgenti, e in linea con quello che facciamo. I social network sono per molti una maniera di divertirsi, ma rappresentano anche una fonte di informazioni. Bisogna stare attenti a mantenere una presenza piacevole e di qualità. </p>
+<p>Infine, come spesso succede su Internet, bisogna testare, testare e testare! Conoscere il proprio target è un processo lungo: ci vogliono numerosi tentativi prima di trovare la formula giusta. Ogni settore ha un pubblico specifico e bisogna imparare a dialogare con il proprio. </p>
+<h2 style="color:#509195">Avete consigli per i commercianti che stanno entrando nel mondo dei social network?</h2>
+<p>Spendiamo relativamente poco per i social network, ma vi dedichiamo una bella fetta del nostro tempo. Promuoviamo regolarmente le nostre pubblicazioni su Facebook e spesso creiamo campagne di acquisizione clienti tramite le inserzioni di Facebook (il che ci permette anche di condividere le inserzioni su Instagram). Detto questo, i social network rappresentano meno del 5% delle nostre spese per il marketing; preferiamo riservare il nostro budget a canali che offrono un maggiore ritorno sugli investimenti, come AdWords.</p>
+<hr width="20%" align="left">
+<p>Sei in cerca di ispirazione? Vuoi leggere altre storie come questa? Dai un’occhiata a queste <a href="https://www.prestashop.com/blog/it/category/success-story/">Erfolgsgeschichten</a> o cerca nella nostra <a href="https://www.prestashop.com/it/showcase" target="_blank">vetrina</a>! </p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/caso-studio-etoffe-com-luso-delle-immagini-sui-social-network/">Caso Studio: Etoffe.com e l’uso delle immagini sui  social network</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/caso-studio-etoffe-com-luso-delle-immagini-sui-social-network/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>L’abc del retargeting per i commercianti on-line</title>
+		<link>https://www.prestashop.com/blog/it/labc-retargeting-per-i-commercianti-on-line/</link>
+		<comments>https://www.prestashop.com/blog/it/labc-retargeting-per-i-commercianti-on-line/#comments</comments>
+		<pubDate>Mon, 08 Feb 2016 08:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[Gli amici di Preston]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12844</guid>
+		<description><![CDATA[<p>Quando navighi su internet, capita spesso di dare un&#8217;occhiata a un sito, guardare qualche prodotto on-line e poi tornare a curiosare tra gli articoli di BuzzFeed. Ma mentre continui a navigare, ti accorgi che i prodotti che hai visto poco prima appaiono a lato dello schermo. Come ha fatto questo sito a sapere che stavi [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/labc-retargeting-per-i-commercianti-on-line/">L’abc del retargeting per i commercianti on-line</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Quando navighi su internet, capita spesso di dare un&#8217;occhiata a un sito, guardare qualche prodotto on-line e poi tornare a curiosare tra gli articoli di BuzzFeed. Ma mentre continui a navigare, ti accorgi che i prodotti che hai visto poco prima appaiono a lato dello schermo. </p>
+<p>Come ha fatto <em>questo</em> sito a sapere che stavi adocchiando proprio <em>quei</em> prodotti? È la “magia” del retargeting. Se sei un commerciante on-line, ti sarai già chiesto come applicarlo al <em>tuo</em> <a href="http://prestashop.com/">negozio</a>&#8230;  A tal proposito abbiamo intervistato Garrett Gan di <a href="http://www.thalamus.co/" target="_blank">Thalamus</a>, esperto di  pubblicità digitale.<br />
+<span id="more-12844"></span></p>
+<h2 style="color:#353466">1. Che cos&#8217;è il retargeting?</h2>
+<p>Il retargeting è un tipo di pubblicità che viene mostrata alle persone solo dopo che hanno visitato un negozio on-line. Ecco come funziona: nel tuo sito devi inserire un pixel (ovvero una singola riga di codice), che rilascerà al browser di un utente un cookie anonimo. Grazie a questo cookie, le <a href="http://www.thalamus.co/display/retargeting" target="_blank">società di retargeting</a> sono in grado di tracciare l&#8217;utente durante la navigazione internet, presentandogli annunci pubblicitari ad hoc.</p>
+<p>Questo sistema è del tutto simile a quello utilizzato per la localizzazione degli animali attraverso un dispositivo elettronico. Nel nostro caso il dispositivo viene inserito nel browser di un consumatore, in modo tale da proporre  in seguito annunci in sintonia con il suo comportamento digitale.</p>
+<p>Uno dei modi migliori per applicare il retargeting consiste nel:</p>
+<ul style="padding-left: 30px">
+<li>Mostrare annunci agli utenti che hanno visionato, senza acquistare, un particolare prodotto (come scarpe, jeans, T-shirt, bigiotteria) e pubblicizzare quello stesso prodotto dopo l’abbandono del sito,  offrendo loro un piccolo sconto, per incentivare il completamento  dell’acquisto.</li>
+</ul>
+<h2 style="color:#353466">2. Quali tipi di aziende utilizzano il retargeting? E perché?</h2>
+<p>Il retargeting è utilizzato da tutte le tipologie di aziende, comprese quelle di e-commerce, app mobili o siti B2B, e addirittura dalle agenzie pubblicitarie!</p>
+<p>Il retargeting è un potente strumento di comunicazione con gli utenti che hanno già interagito con un sito, e  conferisce maggior valore alla loro esperienza.</p>
+<p>Questo strumento rende l&#8217;esperienza di navigazione sul web ancor più pertinente, poiché gli annunci proposti riguardano prodotti ben precisi che l&#8217;utente ha già consultato, ma che ora vengono offerti con sconti e/o omaggi. Senza questa tecnologia, sono i commercianti a dovere stabilire quali prodotti <em>potrebbero</em> essere pertinenti per un utente.</p>
+<p>Agli inizi, il retargeting era considerato dai consumatori come qualcosa di &#8220;losco&#8221;, ma ora è ampiamente accettato, essendo  diventato da anni una prassi abbastanza diffusa.</p>
+<h2 style="color:#353466">3. Quanto costa fare una campagna di retargeting?</h2>
+<p>I commercianti on-line possono iniziare con importi di appena 100 dollari  a settimana (o anche meno) con fornitori come <a href="http://www.thalamus.co/ad_partners/adroll" target="_blank">AdRoll</a> o <a href="http://www.thalamus.co/ad_partners/retargeter" target="_blank">Retargeter</a>. Vi sono anche aziende più grandi, come <a href="http://www.thalamus.co/ad_partners/tellapart" target="_blank">TellApart</a>, <a href="http://www.thalamus.co/ad_partners/criteo" target="_blank">Criteo</a> o <a href="http://www.thalamus.co/ad_partners/simpli-fi" target="_blank">Simpli.fi</a>, che offrono funzioni più solide, come l&#8217;ottimizzazione creativa dinamica (che consiste nel cambiare gli annunci con un algoritmo per sfruttare quello più efficace) o il catalogo prodotti (o product feed, dove un consumatore può vedere articoli <em>simili</em> a quello che ha appena visto sul sito di e-commerce).</p>
+<h2 style="color:#353466">4. In che modo i commercianti on-line possono iniziare a utilizzare il retargeting?</h2>
+<p>Una valida soluzione consiste nell&#8217;iniziare a fare campagne di retargeting annuali. Molte aziende di e-commerce hanno incrementato il numero di conversioni effettive dei consumatori offrendo semplicemente un piccolo sconto in fase di retargeting, nei casi di abbandono carrello.</p>
+<p>Non appena il commerciante acquisisce maggiore dimestichezza con il modo in cui massimizzare le conversioni con regolari annunci di retargeting, può passare a meccanismi più sofisticati, come l&#8217;ottimizzazione creativa dinamica e il product feed (entrambi citati qui sopra), e lavorare con le <a href="http://www.thalamus.co/display/ad-network" target="_blank">ad network</a> (agenzie di pubblicità on-line) per guidare nuovi clienti verso il proprio sito.</p>
+<hr align="left" width="20%">
+<p>Inizia oggi stesso consultando le recensioni sui consulenti di retargeting come AdRoll e Retargeter su <a href="http://www.thalamus.co/" target="_blank">Thalamus</a>. In breve sarai pronto per lanciare la  tua prima campagna di retargeting. Hai già lanciato una campagna? Condividi la tua esperienza nello spazio sottostante riservato ai commenti.</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/labc-retargeting-per-i-commercianti-on-line/">L’abc del retargeting per i commercianti on-line</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/labc-retargeting-per-i-commercianti-on-line/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>L’uso dei video sui social media: primi passi</title>
+		<link>https://www.prestashop.com/blog/it/luso-dei-video-sui-social-media-primi-passi/</link>
+		<comments>https://www.prestashop.com/blog/it/luso-dei-video-sui-social-media-primi-passi/#comments</comments>
+		<pubDate>Mon, 08 Feb 2016 07:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12847</guid>
+		<description><![CDATA[<p>È successo a tutti noi: apri Facebook solo per dare un’occhiata e finisci per passare mezz’ora guardando un video dopo l’altro. Sappiamo per esperienza personale che i video aiutano non solo ad attrarre l’attenzione del cliente, ma anche a sviluppare il proprio marchio. Oggi scoprirai come iniziare a utilizzare video sui social media per consolidare [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/luso-dei-video-sui-social-media-primi-passi/">L’uso dei video sui social media: primi passi</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>È successo a tutti noi: apri Facebook solo per dare un’occhiata e finisci per passare mezz’ora guardando un video dopo l’altro. Sappiamo per esperienza personale che i video aiutano non solo ad attrarre l’attenzione del cliente, ma anche a sviluppare il proprio marchio. Oggi scoprirai come iniziare a utilizzare video sui social media per consolidare la tua presenza on-line.<br />
+<span id="more-12847"></span></p>
+<h2 style="color:#e07531">La scelta della piattaforma</h2>
+<p>Prima di iniziare a filmare, dovrai decidere dove condividere il tuo contenuto. La piattaforma da te scelta determinerà la lunghezza del tuo video e viceversa.<br />
+Ecco, in ordine decrescente, le piattaforme più usate: </p>
+<h4><a href="https://vine.co/" target="_blank">Vine</a></h4>
+<p>Questo social media è stato acquistato da Twitter nel 2012. Vine permette di creare video brevissimi, il che lo rende unico nel suo genere; l’età del target è generalmente al di sotto dei 20 anni. Di solito, un video Vine su cinque è condiviso anche su Twitter: per il commerciante è un modo per ampliare il proprio raggio d’influenza. <strong>Lunghezza massima dei video: 6 secondi</strong></p>
+<h4><a href="https://www.instagram.com/" target="_blank">Instagram</a></h4>
+<p>Instagram è ottimo per chi pubblica sia foto che video. Nel 2010, la società aveva l’obiettivo di diventare il social media più usato per la condivisione di immagini. Con ben <a href="http://venturebeat.com/2013/06/20/instagram-users/" target="_blank">130 milioni di utenti mensili</a> Instagram si è prefissata lo stesso obiettivo per i video nel <a href="http://techcrunch.com/2013/06/20/facebook-instagram-video/" target="_blank">2013</a>, quando ha introdotto la possibilità di pubblicare filmati sull&#8217;app. Se il tuo profilo Instagram ha già un buon numero di follower, non avrai problemi a integrare i video nella tua strategia. <strong>Lunghezza massima dei video: 15 secondi</strong></p>
+<h4><a href="https://www.facebook.com/" target="_blank">Facebook</a></h4>
+<p>I video <a href="http://newsroom.fb.com/news/2015/09/introducing-360-video-on-facebook/" target="_blank">a 360°</a> di Facebook sono stati l’innovazione più eclatante del 2015. Gli utenti di Facebook ora possono guardare ed esplorare i filmati  da 360 angolazioni diverse, semplicemente inclinando o ruotando il proprio dispositivo mobile. Facebook è riuscito a innovare e allo stesso tempo a consolidare il suo marchio: top! <strong>Lunghezza massima dei video: 3 minuti o 180 secondi</strong></p>
+<h4><a href="http://twitter.com/" target="_blank">Twitter</a></h4>
+<p>Come Vine, Twitter offre servizi di hosting e  pubblicazione dei video, solo che i filmati possono essere più lunghi. Sono inoltre corredati di un tweet per facilitarne la condivisione. <strong>Lunghezza massima dei video: 30 secondi</strong></p>
+<h4><a href="https://www.youtube.com/" target="_blank">YouTube</a></h4>
+<p>Usare YouTube è vantaggioso, vista l’associazione di questa piattaforma a Google. Creare video di istruzioni o tutorial, con link strategici in termini di SEO, può farti non solo volare alto nei risultati di ricerca, ma anche procurarti nuovi potenziali clienti. Un ulteriore vantaggio è la possibilità di guadagni aggiuntivi (grazie alle pubblicità mostrate su YouTube) man mano che le visualizzazioni aumentano. <strong>Lunghezza massima dei video: 15 minuti / 900 secondi</strong></p>
+<h4><a href="https://vimeo.com/" target="_blank">Vimeo</a></h4>
+<p>Considerato da molti la versione “professionale” di <a href="http://mashable.com/2013/05/30/vimeo-over-youtube/#9fEYcbGXjkqD" target="_blank">YouTube</a>, Vimeo ha adottato un modello commerciale che prevede funzioni aggiuntive a pagamento. Dato che Vimeo non dipende dalla pubblicità per i suoi profitti, i tuoi clienti non dovranno guardare alcuno spot prima di arrivare al tuo contenuto. Se i tuoi video sono brevi ma di qualità cinematografica, Vimeo potrebbe fare al caso tuo. <strong>Lunghezza massima dei video: nessuna / fino a 25 GB all’anno</strong></p>
+<h2 style="color:#e07531">I video sui social media: qualche idea</h2>
+<p>Ora che sai quale dovrà essere la lunghezza dei tuoi video rispetto ai social media, puoi decidere il tipo di contenuto che vuoi offrire. Ecco alcuni suggerimenti per cominciare:  </p>
+<ol>
+<li><strong>Racconta una storia</strong> &#8211; Pensa al tuo video come a un cortometraggio. È quello che ha fatto la marca di gomme da masticare <a href="https://www.youtube.com/watch?v=qOIdI_kZNBU" target="_blank">Extra Gum</a>: il suo video ha fatto trepidare tutti, romantici e non, raccontando una storia attinente al prodotto.</li>
+<li><strong>Fai parlare i clienti</strong> (contenuto generato dagli utenti) &#8211; Condividi le esperienze dei tuoi attuali clienti con il potenziale  target che intendi raggiungere con i tuoi video. Hai la possibilità di intervistarli di persona? Perfetto! Altrimenti, puoi ispirarti a <a href="https://www.facebook.com/gopro/videos" target="_blank">GoPro</a> e incoraggiarli a inviare i loro video migliori.</li>
+<li><strong>Dietro le quinte</strong> (o documentario) &#8211; Rivela ai tuoi clienti fatti e segreti sulla tua attività. Se produci a mano la tua merce, mostra il processo nel  video. Organizza un servizio fotografico, compila un lookbook oppure stuzzica la curiosità dei tuoi clienti, come ha fatto la marca newyorkese <a href="https://vimeo.com/25439223" target="_blank">Crystal Cactus</a>.</li>
+<li><strong>Interviste a ospiti o staff</strong> &#8211; Fai domande a un altro esperto, oppure inverti i ruoli e fatti intervistare dai tuoi follower, rispondendo alle domande da loro inviate (come abbiamo fatto noi con la nostra campagna <a href="https://www.facebook.com/prestashop/videos/1227558680594405/?theater" target="_blank">#EQM Facebook Campaign</a>).</li>
+<li><strong>Video “How to”</strong> &#8211; Pensi che insegnare qualcosa in pochissimi secondi sia impossibile? Dovrai ricrederti dopo aver guardato questo <a href="https://v.cdn.vine.co/r/videos/48133739-9554-456A-9AF9-803F42B521B5-618-00000112A175BA3D_1.0.7.mp4?versionId=NQv5RUjDw9AoOKfUOz8lEONNRqJZ3CxV" target="_blank">Vine su come fare Sprinkles</a>, pubblicato da Oreo. Tu sei la massima autorità per quanto riguarda tuo prodotto: usa i video per insegnare ai tuoi clienti qualcosa di nuovo. </li>
+<li><strong>Istruzione / Storia</strong> &#8211; Con i tuoi video puoi insegnare qualcosa anche alla comunità sociale a cui appartieni. Visto il suo ambito di interesse, <a href="https://twitter.com/generalelectric/status/683089956277886977" target="_blank">GE</a> condivide con regolarità pillole di scienza. Questo video mostra diverse persone che hanno usato la tecnologia  per cambiare il mondo.</li>
+<li><strong>Animazioni 3D / Stop motion / cartoni</strong> &#8211; Dai un’occhiata a questa animazione realizzata  dal negozio PrestaShop <a href="https://www.instagram.com/p/_o6pdjDv0S/" target="_blank">SelfPackaging</a> con la tecnica Stop motion. Il tema festivo ha sicuramente fatto breccia nei cuori di tutti. Dopotutto, chi può resistere al fascino del Natale?</li>
+</ol>
+<p>Adesso sai tutto quello che c’è da sapere per iniziare a usare il video marketing sui social media. Che cosa aspetti? Accendi la telecamera e inizia!<br />
+Stai già usando video sui social media? Condividi i tuoi consigli inserendo un commento qui sotto. </p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/luso-dei-video-sui-social-media-primi-passi/">L’uso dei video sui social media: primi passi</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/luso-dei-video-sui-social-media-primi-passi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://v.cdn.vine.co/r/videos/48133739-9554-456A-9AF9-803F42B521B5-618-00000112A175BA3D_1.0.7.mp4" length="916512" type="video/mp4" />
+		</item>
+		<item>
+		<title>Ispirazione per il design e-commerce: Lookbook PrestaShop 2016</title>
+		<link>https://www.prestashop.com/blog/it/ispirazione-per-design-commerce-lookbook-prestashop-2016/</link>
+		<comments>https://www.prestashop.com/blog/it/ispirazione-per-design-commerce-lookbook-prestashop-2016/#comments</comments>
+		<pubDate>Wed, 03 Feb 2016 14:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[Novità PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12839</guid>
+		<description><![CDATA[<p>Cos’hanno in comune i negozi PrestaShop di maggior successo? Un design accurato e una mirata selezione di fotografie, sia di ambienti che di prodotti, sono elementi fondamentali per diventare leader nel tuo settore, paese e universo e-commerce. Il Lookbook PrestaShop 2016 raccoglie una selezione di 24 esempi di interfacce utente mirate, caratterizzate da un utilizzo [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/ispirazione-per-design-commerce-lookbook-prestashop-2016/">Ispirazione per il design e-commerce: Lookbook PrestaShop 2016</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Cos’hanno in comune i negozi PrestaShop di maggior successo?</strong> Un design accurato e una mirata selezione di fotografie, sia di ambienti che di prodotti, sono elementi fondamentali per diventare leader nel tuo settore, paese e universo e-commerce.</p>
+<p>Il Lookbook PrestaShop 2016 raccoglie una selezione di 24 esempi di interfacce utente mirate, caratterizzate da un utilizzo attento e intelligente del colore. Ciascuna può servirti da esempio per riscuotere maggiore successo con il tuo negozio on-line.<br />
+<span id="more-12839"></span><br />
+Lasciati ispirare dal catalogo dei più bei negozi PrestaShop e goditi il viaggio nella nostra speciale galleria d’arte e-commerce.</p>
+<div class="text-center">
+	<a href="https://www.prestashop.com/it/lookbook" target="_blank" class="btn btn-sucess" style="background-color: #2f2f2f;border: 1px solid #191717;border-bottom: 3px solid #292727;margin: 20px 0 0;color:#fff"><i class="fa fa-download"></i>&nbsp;&nbsp;&nbsp;Scarica subito il Lookbook</a>
+</div>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/ispirazione-per-design-commerce-lookbook-prestashop-2016/">Ispirazione per il design e-commerce: Lookbook PrestaShop 2016</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/ispirazione-per-design-commerce-lookbook-prestashop-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Le tendenze web design 2016 per l&#8217;e-commerce</title>
+		<link>https://www.prestashop.com/blog/it/le-tendenze-web-design-2016-per-le-commerce/</link>
+		<comments>https://www.prestashop.com/blog/it/le-tendenze-web-design-2016-per-le-commerce/#comments</comments>
+		<pubDate>Mon, 01 Feb 2016 08:30:42 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12821</guid>
+		<description><![CDATA[<p>Il settore dell&#8217;e-commerce è spesso dominato dalle nuove tendenze di web design; del resto per aggiornare il layout di una pagina web basta sostituire alcune righe di codice. Per aiutarti a gestire i cambiamenti del design e per distinguerti dalla concorrenza, abbiamo chiesto il parere ad alcuni membri delle nostre agenzie partner. Le tendenze del [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/le-tendenze-web-design-2016-per-le-commerce/">Le tendenze web design 2016 per l&#8217;e-commerce</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Il settore dell&#8217;e-commerce è spesso dominato dalle nuove tendenze di web design; del resto per aggiornare il layout di una pagina web basta sostituire alcune righe di codice. Per aiutarti a gestire i cambiamenti del design e per distinguerti dalla concorrenza, abbiamo chiesto il parere ad alcuni membri delle nostre <a href="https://www.prestashop.com/it/dettagli-certificazione">agenzie partner</a>.</p>
+<p><span id="more-12821"></span> </p>
+<h2 style="color:#1b9743">Le tendenze del 2015</h2>
+<p>Innanzitutto, diamo un&#8217;occhiata ad alcune tendenze del 2015 ancora in corso. Se lo scorso anno hai progettato il tuo sito con uno di questi elementi, non devi preoccuparti di cambiarlo.<br />
+Armando Salvador, <strong>Chief Technical Officer</strong> di <a href="https://www.prestashop.com/es/asociados-agencia-web/plata/ecomm360">eComm360</a>, ritiene che queste tendenze saranno valide  anche in futuro: </p>
+<p><strong>Flat Design</strong><br />
+Il flat design (o design piatto) elimina ogni traccia di ombre, profondità, smussature, gradienti ed effetti tridimensionali, ottenendo un look semplice e minimalista. Questa tendenza rende il sito molto chiaro e pulito, conferendo grande fluidità per il responsive design. Sebbene si tratti di un trend in uso già da qualche anno, continueremo a vederlo anche nel 2016.</p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/flat-desingquerolets-1024x506.png" alt="flat desing(querolets)" width="700" height="345" class="aligncenter size-large wp-image-21164" /></p>
+<p><a href="http://www.querolets.net/es/" target="_blank">Querolets</a></p>
+<p><strong>Design scorrevole a scopo narrativo</strong><br />
+Nel 2015 abbiamo assistito a un aumento delle pagine con scroll infinito. Il web design scorrevole non dà solo ottimi risultati, ma è anche perfetto per sviluppare contenuto narrativo poiché limita il numero di clic che un visitatore deve compiere. Abbinata al maggiore utilizzo dei dispositivi mobili, questa rimarrà la tendenza preferita dagli utenti anche nel 2016.</p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/scrolllesraffineurs.png" alt="scroll(lesraffineurs)" width="404" height="854" class="aligncenter size-full wp-image-21170" /></p>
+<p><a href="http://www.lesraffineurs.com/" target="_blank">lesraffineurs</a></p>
+<p><strong>Animazioni</strong><br />
+Le animazioni ben posizionate possono arricchire enormemente l&#8217;esperienza dell’utente<br />
+Ecco alcuni esempi delle animazioni più diffuse:</p>
+<ul style="padding-left: 30px">
+<li>Loader: intrattiene i visitatori, consentendo loro di sapere esattamente cosa sta accadendo.</li>
+<li>Hover: si presta a un&#8217;esperienza utente più intuitiva, fornendo un feedback senza dover cliccare.</li>
+<li>Slideshow: presentazione sequenziale di immagini e video.</li>
+</ul>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/hovercanada.png" alt="hover(canada)" width="845" height="660" class="aligncenter size-full wp-image-21167" /></p>
+<p><a href="http://www.canadahouse.es/en/" target="_blank">Canada House</a></p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/hoverclick-and-wine-1024x479.png" alt="hover(click and wine)" width="700" height="327" class="aligncenter size-large wp-image-21168" /></p>
+<p><a href="http://www.clickandwine.es/gb/" target="_blank">Click and Wine</a></p>
+<p>Alcune tendenze del 2015, invece, sono destinate a sparire. Ad esempio, Mona di <a href="https://www.prestashop.com/en/web-agency-partners/bronze/nurelm">NuRelm</a> dice addio a: </p>
+<p><strong>Siti belli ma lenti</strong><br />
+Nel 2015 molti siti utilizzavano effetti parallax particolarmente pesanti,  belli graficamente ma che rallentavano molto i browser. Ricordate che il design deve essere pulito, accattivante e facilmente accessibile, ma anche semplice da elaborare da entrambi i lati del server. Deve essere gradevole per gli occhi e facile da navigare.</p>
+<h2 style="color:#1b9743">Le nuove tendenze per il 2016</h2>
+<p>Vediamo ora quali sono le nuove tendenze 2016 secondo  Armando di <a href="https://www.prestashop.com/es/asociados-agencia-web/plata/ecomm360">eComm360</a> :</p>
+<p><strong>Aspetto tipografico</strong><br />
+Font più grandi, utilizzati in modo espressivo, saranno sempre più utilizzati.</p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/Tipografiacanadahouse-1024x506.png" alt="Tipografia(canadahouse)" width="700" height="345" class="aligncenter size-large wp-image-21171" /></p>
+<p><a href="http://www.canadahouse.es/en/" target="_blank">Canada House</a></p>
+<p><strong>Schermo intero</strong><br />
+Vale la pena sfruttare l&#8217;intera larghezza dei dispositivi: gli slider con più immagini sono stati sostituiti da un&#8217;unica immagine ad alta risoluzione. Le alte risoluzioni sono maggiormente apprezzate da chi possiede dispositivi più avanzati dal punto di vista tecnologico.</p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/fullscreentiny-cottons-1024x506.png" alt="fullscreen(tiny cottons)" width="700" height="345" class="aligncenter size-large wp-image-21165" /></p>
+<p><a href="http://tinycottons.com/" target="_blank">Tiny Cottons</a></p>
+<p><strong>Menu hamburger</strong><br />
+Il menu hamburger, tanto diffuso nel responsive design, è ora una funzione comune anche  nelle versioni desktop, dove ha ormai quasi del tutto sostituito il tradizionale menu a tendina. </p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/menu-hamburguesaclick-and-wine-1024x496.png" alt="menu hamburguesa(click and wine)" width="700" height="339" class="aligncenter size-large wp-image-21169" /></p>
+<p><a href="http://www.clickandwine.es/gb/" target="_blank">Click and Wine</a></p>
+<p><strong>Pulsanti fantasma</strong><br />
+I pulsanti fantasma vengono sempre più integrati nel design attuale. Praticamente invisibili, questi pulsanti portano il minimalismo all&#8217;estremo. Attivati tramite animazioni hover, attirano maggiormente l&#8217;attenzione dell&#8217;utente e incentivano le azioni secondarie.</p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/boton-fantasmaimage-republic-1024x487.png" alt="boton fantasma(image republic)" width="700" height="332" class="aligncenter size-large wp-image-21172" /></p>
+<p><a href="http://image-republic.com/en/" target="_blank">Image Republic</a></p>
+<p><strong>Layout a griglia</strong><br />
+Pinterest ha grandemente contribuito alla diffusione di questo trend, che quest&#8217;anno vedremo declinato nella versione web design. Tale layout funziona molto bene quando i siti devono mescolare diversi tipi di informazioni, favorendo una navigazione semplice e illimitata all&#8217;interno dei contenuti.</p>
+<p><img src="https://www.prestashop.com/blog/it/files/2016/01/gridtiny-cottons-1024x514.png" alt="grid(tiny cottons)" width="700" height="351" class="aligncenter size-large wp-image-21166" /></p>
+<p><a href="http://tinycottons.com/" target="_blank">Tiny Cottons</a></p>
+<p>Vediamo ora le novità che Sam di <a href="https://www.prestashop.com/en/web-agency-partners/bronze/nurelm">NuRelm</a> si aspetta per il 2016:</p>
+<p><strong>Accessibilità</strong><br />
+Da sviluppatori e designer ci aspettiamo una maggiore attenzione al design accessibile per  coloro che hanno  un limite fisico o una disabilità visiva. A nostro parere, tutti devono avere il diritto di accedere facilmente a internet e di navigare come chiunque altro e nessuna azienda dovrebbe ignorare le persone con disabilità.</p>
+<h2 style="color:#1b9743">In breve&#8230;</h2>
+<p>Sei un commerciante online che tenta di riprogettare il proprio sito? Oppure un designer in cerca di idee per nuovi template grafici PrestaShop? In ogni caso, ecco alcuni suggerimenti utili: </p>
+<ol>
+<li>Esamina attentamente le tendenze di  design prima di integrarle nel tuo negozio on-line. Se un template è molto appariscente, potrebbe velocemente passar di moda. Se vuoi evitare di cambiare spesso il tuo layout, scegli con cura l’aspetto grafico.</li>
+<li>Non dimenticare il tuo pubblico, il cliente. Indipendentemente da quanto sia &#8220;bello&#8221; il tuo sito, fondamentalmente deve contribuire a facilitare l’esperienza d’acquisto. Accertati che il nuovo design non distolga l&#8217;attenzione dai prodotti che stai tentando di vendere.</li>
+<li>Se possibile, sottoponi le tue idee a un <a href="https://www.prestashop.com/blog/it/6-test-ab-per-ottimizzare-un-negozio-online/">A/B-Test</a>. Un design di tendenza  non sempre può essere adatto al tuo negozio on-line. Assicurati che l&#8217;aggiunta delnuovo design non rovini l’esperienza d’acquisto.</li>
+</ol>
+<p>Stai cercando qualche buona agenzia che offra al tuo <a href="https://www.prestashop.com/">negozio on-line</a> un design di grande effetto? Consulta il nostro elenco di <a href="https://www.prestashop.com/it/agenzie-web-partner">agenzie ufficiali</a> Pensi che abbiamo dimenticato qualche trend importante per il 2016? Condividilo nei commenti! </p>
+<div class="row">
+<div class="col-sm-6"><img src="https://www.prestashop.com/blog/it/files/2016/01/ecomm360-1024x270.png" alt="ecomm360" width="700" height="184" class="aligncenter size-large wp-image-13059" /></div>
+<div class="col-sm-6"><img src="https://www.prestashop.com/blog/it/files/2016/01/nurelm.png" alt="nurelm" width="220" height="127" class="aligncenter size-full wp-image-13054" /></div>
+</div>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/le-tendenze-web-design-2016-per-le-commerce/">Le tendenze web design 2016 per l&#8217;e-commerce</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/le-tendenze-web-design-2016-per-le-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sondaggio dei lettori: vogliamo conoscere la tua opinione!</title>
+		<link>https://www.prestashop.com/blog/it/sondaggio-dei-lettori-vogliamo-conoscere-tua-opinione/</link>
+		<comments>https://www.prestashop.com/blog/it/sondaggio-dei-lettori-vogliamo-conoscere-tua-opinione/#comments</comments>
+		<pubDate>Thu, 28 Jan 2016 11:03:23 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Novità PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=12813</guid>
+		<description><![CDATA[<p>Gentile membro della Community PrestaShop, periodicamente, svolgiamo dei sondaggi per conoscere l&#8217;opinione della community sul nostro blog. Oggi, ti chiediamo quali sono gli argomenti da approfondire nel 2016. Aiutaci a migliorare, bastano solo due minuti. Partecipa al sondaggio! Grazie!</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/sondaggio-dei-lettori-vogliamo-conoscere-tua-opinione/">Sondaggio dei lettori: vogliamo conoscere la tua opinione!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Gentile membro della Community PrestaShop,<br />
+periodicamente, svolgiamo dei sondaggi per conoscere l&#8217;opinione della community sul nostro blog. </p>
+<p>Oggi, ti chiediamo quali sono gli argomenti da approfondire  nel 2016. Aiutaci a migliorare, bastano solo  due minuti.</p>
+<div class="text-center" style="margin-bottom: 20px"><a href="https://jliu08ps.typeform.com/to/htx9vg" target="_blank" style="font-size:23px">Partecipa al sondaggio!</a></div>
+<p>Grazie! </p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/sondaggio-dei-lettori-vogliamo-conoscere-tua-opinione/">Sondaggio dei lettori: vogliamo conoscere la tua opinione!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/sondaggio-dei-lettori-vogliamo-conoscere-tua-opinione/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
