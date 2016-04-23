@@ -37,7 +37,18 @@
 <!-- no steps e nascondi bottone indietro-->
 {literal}
 <style type="text/css">
-      .button-exclusive {visibility: hidden;) 
+      .button-exclusive {visibility: hidden;}
+			.price {visibility: visible;}
+			#our_price_display{visibility: visible;}
+			.ajax_cart_total{visibility: visible;}
+			table#cart_summary_total{visibility: visible;}
+			#cart_summary thead th.cart_unit{visibility: visible;}
+			#cart_summary thead th.cart_total{visibility: visible;}
+			#cart_summary tbody td.cart_unit {visibility: visible;}
+			#cart_summary tbody td.cart_total{visibility: visible;}
+			.cart-prices{visibility: visible;}
+			.carrier_title{visibility: visible;}
+			.delivery_options{visibility: visible;} 
 </style>
 {/literal}
 {else}
