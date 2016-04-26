@@ -38,17 +38,17 @@
 {literal}
 <style type="text/css">
       .button-exclusive {visibility: hidden;}
-			.price {visibility: visible;}
-			#our_price_display{visibility: visible;}
-			.ajax_cart_total{visibility: visible;}
-			table#cart_summary_total{visibility: visible;}
-			#cart_summary thead th.cart_unit{visibility: visible;}
-			#cart_summary thead th.cart_total{visibility: visible;}
-			#cart_summary tbody td.cart_unit {visibility: visible;}
-			#cart_summary tbody td.cart_total{visibility: visible;}
-			.cart-prices{visibility: visible;}
-			.carrier_title{visibility: visible;}
-			.delivery_options{visibility: visible;} 
+			.price {display: inline-block;}
+			#our_price_display{display: block;}
+			.ajax_cart_total{display: block;}
+			table#cart_summary_total{display: block;}
+			#cart_summary thead th.cart_unit{display: table-cell;}
+			#cart_summary thead th.cart_total{display: table-cell;}
+			#cart_summary tbody td.cart_unit {display: table-cell;}
+			#cart_summary tbody td.cart_total{display: table-cell;}
+			.cart-prices{display: block;}
+			.carrier_title{display: block;}
+			.delivery_options{display: block;}
 </style>
 {/literal}
 {else}
