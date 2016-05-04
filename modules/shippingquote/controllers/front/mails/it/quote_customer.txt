@@ -1,16 +1,14 @@
 Hello {firstname} {lastname},
 
-Your shipping quote request has been sent successfully
-and we will answer as soon as possible. If you have any questions, 
-please contact us at:  
+La sua richiesta di quotazione è stata inviata correttamente
+e le risponderemo il prima possibile. Per qualsiasi domanda, per favore, contatti il nostro servizio clienti:
 {shop_url}/index.php?controller=contact-form
 
 
-Thank you for shopping at {shop_name}
+Grazie per aver visitato {shop_name}
 
-Your Message (if any):
+Insieme alla richiesta di quotazione hai inviato il seguente messaggio::
 {message}
 
 
-{shop_url} powered by PrestaShop™ 
-                        
+{shop_url}
