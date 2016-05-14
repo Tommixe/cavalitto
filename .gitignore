@@ -219,3 +219,5 @@ pip-log.txt
 cache/
 cache/smarty/
 smarty/
+modules/gamification/
+modules/gamification/views/

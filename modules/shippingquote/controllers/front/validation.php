@@ -8,8 +8,8 @@
 *  http://opensource.org/licenses/afl-3.0.php
 *
 *  This program is distributed in the hope that it will be useful,
-*  but WITHOUT ANY WARRANTY; without even the implied warranty of 
-*  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   
+*  but WITHOUT ANY WARRANTY; without even the implied warranty of
+*  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 */
 
 class ShippingquoteValidationModuleFrontController extends ModuleFrontController
@@ -18,9 +18,9 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
 
 	public function postProcess()
 	{
-		if ($this->context->cart->id_customer == 0 
-     || $this->context->cart->id_address_delivery == 0 
-     || $this->context->cart->id_address_invoice == 0 
+		if ($this->context->cart->id_customer == 0
+     || $this->context->cart->id_address_delivery == 0
+     || $this->context->cart->id_address_invoice == 0
      || !$this->module->active)
 			Tools::redirectLink(__PS_BASE_URI__.'order.php?step=1');
 
@@ -28,7 +28,7 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
 		require_once _PS_ROOT_DIR_.'/init.php';
 		require_once _PS_ROOT_DIR_.'/classes/Message.php';
 
-		$customer = new Customer($this->context->cart->id_customer);    
+		$customer = new Customer($this->context->cart->id_customer);
 		if (!Validate::isLoadedObject($customer))
 			Tools::redirect('index.php?controller=order&step=1');
 
@@ -38,7 +38,7 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
           SET c.`sq_shipping_quote` = 0.00,
               c.`sq_cart_changed` = 0,
               c.`date_upd` = NOW()
-        WHERE c.`id_cart` = ".(int)$this->context->cart->id."                           
+        WHERE c.`id_cart` = ".(int)$this->context->cart->id."
         	AND c.`id_customer` = ".(int)$this->context->cart->id_customer."
         LIMIT 1";
     if (!Db::getInstance()->execute($sql))
@@ -46,8 +46,8 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
 
     // Set the variables for the template:
     $id_lang = (int)$this->context->cart->id_lang;
-		$iso     = Language::getIsoById($id_lang);  
-    $id_cart = (int)$this->context->cart->id;    
+		$iso     = Language::getIsoById($id_lang);
+    $id_cart = (int)$this->context->cart->id;
     $configuration = Configuration::getMultiple(array(
 			'PS_SHOP_EMAIL',
 			'PS_SHOP_NAME'
@@ -56,7 +56,7 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
     $customer_template = 'quote_customer';
     $errorMsg = 'Shipping Quote Error: Mailing template was not found.';
     $admin_dir = __PS_BASE_URI__ . Configuration::get('SHIPPING_QUOTE_ADMIN_DIR');
-    
+
     // Get customer's message / comments
     $message_array = Message::getMessagesByCartId((int)$this->context->cart->id);
 
@@ -75,11 +75,11 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
     {
       /*
       **  Sent to the administrator
-      */ 
+      */
       Mail::Send(
-				(int)$this->context->cart->id_lang, 
-        $admin_template, 
-				Mail::l('Shipping Quote Needed!', $id_lang),
+				(int)$this->context->cart->id_lang,
+        $admin_template,
+				Mail::l('Quote Needed!', $id_lang),
 				array (
      			'{shop_name}' => Configuration::get('PS_SHOP_NAME'),
      			'{firstname}' => $this->context->customer->firstname,
@@ -97,21 +97,21 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
 				null,
 				dirname(__FILE__).'/mails/'
         );
-     
+
       /*
       **  Sent to the customer
-      */      
+      */
       Mail::Send(
-				(int)$this->context->cart->id_lang, 
-        $customer_template, 
-				Mail::l('Shipping Quote Auto Reply', $id_lang),
+				(int)$this->context->cart->id_lang,
+        $customer_template,
+				Mail::l('Quote Auto Reply', $id_lang),
 				array (
      			'{shop_name}' => Configuration::get('PS_SHOP_NAME'),
      			'{firstname}' => $this->context->customer->firstname,
      			'{lastname}'  => $this->context->customer->lastname,
      			'{email}'     => $this->context->customer->email,
      			'{cart_id}'   => (int)$this->context->cart->id,
-				  '{message}'   => (isset($message_array[0]['message']) ? $message_array[0]['message'] : NULL)          
+				  '{message}'   => (isset($message_array[0]['message']) ? $message_array[0]['message'] : NULL)
         ),
 				$this->context->customer->email,
 				$this->context->customer->firstname.' '.$this->context->customer->lastname,
@@ -121,9 +121,9 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
 				null,
 				dirname(__FILE__).'/mails/'
         );
-    } else 
+    } else
       Logger::addLog($errorMsg, 3);
-              
+
 		$customer = new Customer($this->context->cart->id_customer);
 		if (!Validate::isLoadedObject($customer))
 			Tools::redirectLink(__PS_BASE_URI__.'order.php?step=1');
@@ -135,7 +135,7 @@ class ShippingquoteValidationModuleFrontController extends ModuleFrontController
 			$this->module->validateOrder((int)$this->context->cart->id, Configuration::get('PS_OS_PREPARATION'), $total, $this->module->displayName, null, array(), null, false, $customer->secure_key);
 			Tools::redirectLink(__PS_BASE_URI__.'order-confirmation.php?key='.$customer->secure_key.'&id_cart='.(int)$this->context->cart->id.'&id_module='.(int)$this->module->id.'&id_order='.(int)$this->module->currentOrder);
 		}
-	} 
+	}
 
 	/*
 	** @see FrontController::initContent()
